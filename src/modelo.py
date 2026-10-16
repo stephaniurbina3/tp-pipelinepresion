@@ -1,6 +1,3 @@
-
-
-
 class Paciente:
     UMBRAL_HIPERTENSION = 140  
 
