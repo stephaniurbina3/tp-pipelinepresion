@@ -1,0 +1,406 @@
+[{
+    "codigo": "PAC-001",
+    "edad": 21,
+    "imc": 28.8,
+    "presion_sistolica": 97,
+    "grupo": "B"
+},
+{
+    "codigo": "PAC-002",
+    "edad": 22,
+    "imc": 30.1,
+    "presion_sistolica": 107,
+    "grupo": "A"
+},
+{
+    "codigo": "PAC-003",
+    "edad": 25,
+    "imc": 27.2,
+    "presion_sistolica": 101,
+    "grupo": "A"
+},
+{
+    "codigo": "PAC-004",
+    "edad": 26,
+    "imc": 25.7,
+    "presion_sistolica": 112,
+    "grupo": "A"
+},
+{
+    "codigo": "PAC-005",
+    "edad": 26,
+    "imc": 22.8,
+    "presion_sistolica": 116,
+    "grupo": "A"
+},
+{
+    "codigo": "PAC01",
+    "edad": 34,
+    "imc": 24.0,
+    "presion_sistolica": 118,
+    "grupo": "A"
+},
+{
+    "codigo": "PAC-006",
+    "edad": 27,
+    "imc": 26.1,
+    "presion_sistolica": 103,
+    "grupo": "B"
+},
+{
+    "codigo": "PAC-007",
+    "edad": 29,
+    "imc": 23.4,
+    "presion_sistolica": 121,
+    "grupo": "A"
+},
+{
+    "codigo": "PAC-008",
+    "edad": 29,
+    "imc": 24.3,
+    "presion_sistolica": 115,
+    "grupo": "A"
+},
+{
+    "codigo": "PAC-009",
+    "edad": 30,
+    "imc": 23.8,
+    "presion_sistolica": 105,
+    "grupo": "B"
+},
+{
+    "codigo": "PAC-010",
+    "edad": 30,
+    "imc": 25.0,
+    "presion_sistolica": 118,
+    "grupo": "A"
+},
+{
+    "codigo": "PAC-011",
+    "edad": 30,
+    "imc": 27.0,
+    "presion_sistolica": 111,
+    "grupo": "B"
+},
+{
+    "codigo": "PAC-012",
+    "edad": 33,
+    "imc": 23.5,
+    "presion_sistolica": 123,
+    "grupo": "A"
+},
+{
+    "codigo": "PAC-013",
+    "edad": 35,
+    "imc": 22.8,
+    "presion_sistolica": 103,
+    "grupo": "B"
+},
+{
+    "codigo": "PAC-014",
+    "edad": 36,
+    "imc": 22.9,
+    "presion_sistolica": 94,
+    "grupo": "B"
+},
+{
+    "codigo": "PAC-015",
+    "edad": 36,
+    "imc": 22.9,
+    "presion_sistolica": 109,
+    "grupo": "B"
+},
+{
+    "codigo": "PAC-051",
+    "edad": null,
+    "imc": 25.3,
+    "presion_sistolica": 120,
+    "grupo": "B"
+},
+{
+    "codigo": "PAC-016",
+    "edad": 37,
+    "imc": 22.1,
+    "presion_sistolica": 104,
+    "grupo": "B"
+},
+{
+    "codigo": "PAC-017",
+    "edad": 39,
+    "imc": 23.3,
+    "presion_sistolica": 111,
+    "grupo": "B"
+},
+{
+    "codigo": "PAC-018",
+    "edad": 40,
+    "imc": 27.8,
+    "presion_sistolica": 126,
+    "grupo": "B"
+},
+{
+    "codigo": "PAC-019",
+    "edad": 41,
+    "imc": 24.1,
+    "presion_sistolica": 114,
+    "grupo": "A"
+},
+{
+    "codigo": "PAC-020",
+    "edad": 41,
+    "imc": 25.8,
+    "presion_sistolica": 127,
+    "grupo": "A"
+},
+{
+    "codigo": "PAC-052",
+    "edad": 48,
+    "imc": 26.0,
+    "presion_sistolica": 999,
+    "grupo": "A"
+},
+{
+    "codigo": "PAC-021",
+    "edad": 44,
+    "imc": 23.1,
+    "presion_sistolica": 128,
+    "grupo": "A"
+},
+{
+    "codigo": "PAC-022",
+    "edad": 45,
+    "imc": 25.9,
+    "presion_sistolica": 120,
+    "grupo": "B"
+},
+{
+    "codigo": "PAC-023",
+    "edad": 45,
+    "imc": 22.1,
+    "presion_sistolica": 121,
+    "grupo": "B"
+},
+{
+    "codigo": "PAC-024",
+    "edad": 46,
+    "imc": 24.3,
+    "presion_sistolica": 113,
+    "grupo": "B"
+},
+{
+    "codigo": "PAC-025",
+    "edad": 46,
+    "imc": 30.2,
+    "presion_sistolica": 117,
+    "grupo": "B"
+},
+{
+    "codigo": "PAC-026",
+    "edad": 46,
+    "imc": 24.5,
+    "presion_sistolica": 131,
+    "grupo": "A"
+},
+{
+    "codigo": "PAC-027",
+    "edad": 49,
+    "imc": 28.2,
+    "presion_sistolica": 134,
+    "grupo": "A"
+},
+{
+    "codigo": "PAC-028",
+    "edad": 49,
+    "imc": 26.8,
+    "presion_sistolica": 130,
+    "grupo": "B"
+},
+{
+    "codigo": "PAC-029",
+    "edad": 54,
+    "imc": 26.0,
+    "presion_sistolica": 132,
+    "grupo": "A"
+},
+{
+    "codigo": "PAC-030",
+    "edad": 55,
+    "imc": 25.1,
+    "presion_sistolica": 141,
+    "grupo": "A"
+},
+{
+    "codigo": "PAC-012",
+    "edad": 33,
+    "imc": 23.5,
+    "presion_sistolica": 180,
+    "grupo": "A"
+},
+{
+    "codigo": "PAC-031",
+    "edad": 56,
+    "imc": 29.1,
+    "presion_sistolica": 133,
+    "grupo": "A"
+},
+{
+    "codigo": "PAC-032",
+    "edad": 56,
+    "imc": 26.1,
+    "presion_sistolica": 117,
+    "grupo": "B"
+},
+{
+    "codigo": "PAC-033",
+    "edad": 56,
+    "imc": 29.5,
+    "presion_sistolica": 122,
+    "grupo": "A"
+},
+{
+    "codigo": "PAC-034",
+    "edad": 56,
+    "imc": 25.0,
+    "presion_sistolica": 124,
+    "grupo": "A"
+},
+{
+    "codigo": "PAC-035",
+    "edad": 57,
+    "imc": 26.7,
+    "presion_sistolica": 139,
+    "grupo": "A"
+},
+{
+    "codigo": "PAC-053",
+    "edad": 39,
+    "imc": "abc",
+    "presion_sistolica": 125,
+    "grupo": "B"
+},
+{
+    "codigo": "PAC-036",
+    "edad": 57,
+    "imc": 27.5,
+    "presion_sistolica": 125,
+    "grupo": "A"
+},
+{
+    "codigo": "PAC-037",
+    "edad": 59,
+    "imc": 27.5,
+    "presion_sistolica": 133,
+    "grupo": "A"
+},
+{
+    "codigo": "PAC-038",
+    "edad": 60,
+    "imc": 24.3,
+    "presion_sistolica": 139,
+    "grupo": "B"
+},
+{
+    "codigo": "PAC-039",
+    "edad": 61,
+    "imc": 25.6,
+    "presion_sistolica": 141,
+    "grupo": "A"
+},
+{
+    "codigo": "PAC-040",
+    "edad": 62,
+    "imc": 26.6,
+    "presion_sistolica": 148,
+    "grupo": "A"
+},
+{
+    "codigo": "PAC-054",
+    "edad": 52,
+    "imc": 27.1,
+    "presion_sistolica": 130,
+    "grupo": "C"
+},
+{
+    "codigo": "PAC-041",
+    "edad": 64,
+    "imc": 25.4,
+    "presion_sistolica": 123,
+    "grupo": "B"
+},
+{
+    "codigo": "PAC-042",
+    "edad": 66,
+    "imc": 28.6,
+    "presion_sistolica": 125,
+    "grupo": "A"
+},
+{
+    "codigo": "PAC-043",
+    "edad": 66,
+    "imc": 28.5,
+    "presion_sistolica": 151,
+    "grupo": "A"
+},
+{
+    "codigo": "PAC-044",
+    "edad": 66,
+    "imc": 23.4,
+    "presion_sistolica": 119,
+    "grupo": "B"
+},
+{
+    "codigo": "PAC-045",
+    "edad": 67,
+    "imc": 23.7,
+    "presion_sistolica": 130,
+    "grupo": "B"
+},
+{
+    "codigo": "PAC-055",
+    "edad": -45,
+    "imc": 24.8,
+    "presion_sistolica": 122,
+    "grupo": "A"
+},
+{
+    "codigo": "PAC-046",
+    "edad": 67,
+    "imc": 24.8,
+    "presion_sistolica": 140,
+    "grupo": "A"
+},
+{
+    "codigo": "PAC-047",
+    "edad": 68,
+    "imc": 27.7,
+    "presion_sistolica": 135,
+    "grupo": "A"
+},
+{
+    "codigo": "PAC-048",
+    "edad": 70,
+    "imc": 31.7,
+    "presion_sistolica": 149,
+    "grupo": "B"
+},
+{
+    "codigo": "PAC-049",
+    "edad": 71,
+    "imc": 26.9,
+    "presion_sistolica": 145,
+    "grupo": "B"
+},
+{
+    "codigo": "PAC-050",
+    "edad": 74,
+    "imc": 28.4,
+    "presion_sistolica": 142,
+    "grupo": "B"
+},
+{
+    "codigo": "PAC-056",
+    "edad": 61,
+    "imc": 28.0,
+    "presion_sistolica": null,
+    "grupo": "B"
+}]
